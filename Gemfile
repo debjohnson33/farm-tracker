@@ -31,6 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem "devise", github: "heartcombo/devise", branch: "ca-omniauth-2"
 gem 'omniauth-facebook'
+gem 'omniauth-rails_csrf_protection'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'bootstrap-sass', '~> 3.4.1'
